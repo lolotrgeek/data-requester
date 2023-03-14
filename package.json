@@ -1,0 +1,26 @@
+{
+  "name": "node-data-requester",
+  "version": "0.0.1",
+  "description": "Fetch data from an api and store in file, or in memory cache. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolotrgeek/data-requester.git"
+  },
+  "keywords": [
+    "fetch",
+    "data",
+    "api",
+    "cache",
+    "save"
+  ],
+  "author": "lolotrgeek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lolotrgeek/data-requester/issues"
+  },
+  "homepage": "https://github.com/lolotrgeek/data-requester#readme"
+}
